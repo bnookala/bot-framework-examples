@@ -1,0 +1,11 @@
+Hi! These are a few examples of bots I wrote and demonstrated in various talks.
+Hoping that they're useful for you.
+
+To run them, you'll need to do the following:
+
+1. Set up an emulator (Windows only for rich messaging support): https://docs.botframework.com/en-us/tools/bot-framework-emulator/
+2. `cd` into the directory of each bot type
+3. `npm install`
+4. `node first_example.js` or `node second_example.js`
+
+If you've set up the emulator properly, it will immediately start sending messages to the endpoint specified.
